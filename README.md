@@ -43,7 +43,7 @@ When working on the project use consistent coding style. Follow what's already i
 
 ## Project Deadline
 
-Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
+Ideally you'd finish the test project in 1 week. It shouldn't take you longer than 2 weeks.
 
 ## Quality Assurance
 
