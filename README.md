@@ -15,12 +15,13 @@ Convert the following designs to HTML/CSS/JS (pure front-end).
 1. Create project using [Chisel](https://www.getchisel.co/).
 2. Make it responsive using your best judgement.
 3. Use [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) and [BEM](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) naming convention.
-4. Create custom infinite scroll effect - use custom JavaScript (preferably the modern JS standards and APIs), try to avoid plugins. Here's an API you can use: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
-5. You can add an animated transition between the infinite scroll page and the article page. Keep in mind it's an **optional requirement** though.
-6. When scrolling, the top header should scroll up to the top of the page and then stick to the top.
-7. We pay attention to both CSS and JS bundle sizes. Import just what you require and _not the whole package_.
-8. We appreciate _a readable code_.
-9. Avoid using huge commits hiding your progress. The initial commit should be a bare Chisel install. Feel free to work on a branch and use rebase to adjust your commits before submitting the final version.
+4. Create custom infinite scroll effect - use custom JavaScript (preferably the modern JS standards and APIs), try to avoid plugins.
+5. Use this API to display posts: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
+6. You can add an animated transition between the infinite scroll page and the article page. Keep in mind it's an **optional requirement** though.
+7. When scrolling, the top header should scroll up to the top of the page and then stick to the top.
+8. We pay attention to both CSS and JS bundle sizes. Import just what you require and _not the whole package_.
+9. We appreciate _a readable code_.
+10. Avoid using huge commits hiding your progress. The initial commit should be a bare Chisel install. Feel free to work on a branch and use rebase to adjust your commits before submitting the final version.
 
 ## Design
 
